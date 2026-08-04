@@ -1,3 +1,5 @@
+# install.packages(c("shiny", "plotly", "bslib", "bsicons"))
+
 library(shiny)
 library(plotly)
 library(bslib)
